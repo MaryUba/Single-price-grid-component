@@ -29,6 +29,7 @@ Desktop view
 ![screenshot](./image/Desktop%20preview.png)
 
 Mobile view
+
 ![screenshot](./image/Mobile%20preview.png)
 
 
